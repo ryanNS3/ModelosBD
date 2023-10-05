@@ -1,7 +1,8 @@
 <h1 align="center">Modelos de Banco de Dados SQL💻🐬<h1>
 <h1 align="center">📌Modelo em destaque</h1>
 
-![print-eSHOP](https://github.com/ryanNS3/ModelosBD/assets/131712164/406f5854-e891-4934-891c-49232d5cc7c3)
+
+![print-modelo-eshopConect](https://github.com/ryanNS3/ModelosBD/assets/131712164/02b5fb52-ce33-495d-9b5b-5b8a866733f9)
 
 
 <h1 align="center">O que irá encontrar nesse repositório❔</h1>
